@@ -1,6 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 # NLP - Project
-Università di Bologna A.A. 2020/2021
+Università di Bologna, Facoltà di Ingegneria A.A. 2020/2021
 
 ## Abstract
 These investigations aimed to create an NLP system that, given a paragraph and a question regarding it, provides a single answer, which is obtained by selecting a span of text from the paragraph itself. The dataset we used is SQuAD - The Stanford Question Answering Dataset which contains 100,000+ question-answer pairs on 500+ articles.
