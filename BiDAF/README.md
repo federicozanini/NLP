@@ -1,3 +1,8 @@
+<h1> BOTH FILE CAN BE OPENED WITH "OPEN IN COLAB" CHROME EXTENSION </h1>
+
+
+
+
 <b> BiDAF_Training </b> is the file that contains the code to train the model. 
 The file contains: 
 <ul>
