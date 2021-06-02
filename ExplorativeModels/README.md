@@ -31,19 +31,19 @@ The file contains:
 <b> 1.1_LayersExperiments_Glove </b> is the file that contains the code to train some other models, which also exploit GloVe embeddings.
 The file contains: 
 <ul>
-  
+  Similar to 1.0_ExplorativeModels_Glove file but, in the case, the changes involve the layer structure of the models.
 </ul>
 
 <b> 2_ExplorativeModels_Word2Vec </b> is the file that contains the code to train other models, which exploit Word2Vec embeddings.
 The file contains: 
 <ul>
-  
+  The same as 1.0_ExplorativeModels_Glove file but using Word2Vec and stopping at the attention type variability due to bad results.
 </ul>
 
 <b> 3_ExplorativeModels_TrainableEmbeddings </b> is the file that contains the code to train other models, which also have a trainable embedding layer.
 The file contains: 
 <ul>
-  
+  The same as 1.0_ExplorativeModels_Glove file but exploiting the trainable embedding layer.
 </ul>
 
 <b> 4_MakingPredictions </b> is the file that contains the code to make prediction and evaluate the model.
