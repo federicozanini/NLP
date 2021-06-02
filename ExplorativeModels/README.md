@@ -21,11 +21,11 @@ The file contains:
   <li> Creating the Embedding matrix for the Embedding in-model layer (NB adding a term for future test set's OOV terms),</li>
   <li> Building the different models with different structure and parameters, </li>
   <li> Code used to build, train and save the full model: </li> <ul>
-        <li> different batch sizes </li>
-        <li> different learning rates </li>
-        <li> different attention types </li>
-        <li> The best is chosen according to the performance over the validation set's loss value, </li>
-      </ul>
+        <li> different batch sizes, </li>
+        <li> different learning rates, </li>
+        <li> different attention types, </li>
+  </ul>
+  <li> The best is chosen according to the performance over the validation set's loss value. </li>
 </ul>
 
 <b> 1.1_LayersExperiments_Glove </b> is the file that contains the code to train some other models, which also exploit GloVe embeddings.
