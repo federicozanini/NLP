@@ -20,11 +20,12 @@ The file contains:
   <li> Defining a function to draw training graph and a function to handle training using TensorFlow callbacks, </li>
   <li> Creating the Embedding matrix for the Embedding in-model layer (NB adding a term for future test set's OOV terms),</li>
   <li> Building the different models with different structure and parameters, </li>
-  <li> Code used to build, train and save the full model:
-    <li> different batch sizes </li>
-    <li> different learning rates </li>
-    <li> different attention types </li>
-    <li> The best is chosen according to the performance over the validation set's loss value, </li>
+  <li> <ul> Code used to build, train and save the full model:
+        <li> different batch sizes </li>
+        <li> different learning rates </li>
+        <li> different attention types </li>
+        <li> The best is chosen according to the performance over the validation set's loss value, </li>
+      </ul>
   </li>
 </ul>
 
